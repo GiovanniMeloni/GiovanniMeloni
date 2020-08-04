@@ -9,4 +9,4 @@ Sou apaixonado por desenvolvimento de jogos e tenho grande interesse pela área 
  <br/> :blush: &nbsp; Posso te ajudar com Unity
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, a indústria de jogos e assitir animes.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GiovanniMeloni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giomeloni/)](https://www.linkedin.com/in/giomeloni/)| 
-[![Gmail Badge](https://img.shields.io/badge/-giovannimeloni@usp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=giovanni:giovannimeloni@usp.br)](giovanni:giovannimeloni@usp.br)
+[![Gmail Badge](https://img.shields.io/badge/-giovannimeloni@usp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovannimeloni@usp.br)](mailto:giovannimeloni@usp.br)
