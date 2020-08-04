@@ -1,16 +1,9 @@
-### Hi there 👋
+# Giovanni Paolo Meloni
 
+## Olá mundo 👋
+Adoro utilizar lógica para resolver problemas reais e poder desenvoler aplicações que podem ajudar e/ou entreter alguém.
+Sou apaixonado por desenvolvimento de jogos e me interesso pela área de desenvolvimento Web :computer:
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-
-# Thiago Marinho
-
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
-
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
